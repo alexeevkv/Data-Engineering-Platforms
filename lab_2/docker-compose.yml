@@ -15,10 +15,10 @@ services:
     ports:
       - "5432:5432"
     networks:
-      - postgres
+      - my_etl_network
 
 networks:
-  postgres:
+  my_etl_network:
     driver: bridge
 
 volumes:
