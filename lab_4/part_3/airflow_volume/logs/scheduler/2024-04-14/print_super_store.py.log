@@ -1,0 +1,431 @@
+[2024-04-14T14:48:29.943+0000] {processor.py:161} INFO - Started process (PID=240) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:48:29.944+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:48:29.948+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:48:29.946+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:48:33.553+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:48:33.744+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:48:33.744+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:48:33.764+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:48:33.764+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:48:33.793+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 3.857 seconds
+[2024-04-14T14:48:38.031+0000] {processor.py:161} INFO - Started process (PID=249) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:48:38.032+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:48:38.035+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:48:38.034+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:48:38.664+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:48:38.711+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:48:38.710+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:48:38.778+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:48:38.778+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:48:38.805+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.781 seconds
+[2024-04-14T14:49:06.113+0000] {processor.py:161} INFO - Started process (PID=258) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:06.114+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:49:06.116+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:06.116+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:06.718+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:06.764+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:06.764+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:49:06.850+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:06.850+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:49:06.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.794 seconds
+[2024-04-14T14:49:20.862+0000] {processor.py:161} INFO - Started process (PID=261) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:20.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:49:20.866+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:20.865+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:21.901+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:21.912+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:21.912+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:49:21.936+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:21.936+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:49:21.964+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 1.115 seconds
+[2024-04-14T14:49:24.906+0000] {processor.py:161} INFO - Started process (PID=263) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:24.907+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:49:24.910+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:24.910+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:25.529+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:25.540+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:25.540+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:49:25.563+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:25.563+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:49:25.590+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.691 seconds
+[2024-04-14T14:49:26.048+0000] {processor.py:161} INFO - Started process (PID=265) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:26.049+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:49:26.051+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:26.051+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:26.672+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:26.688+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:26.687+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:49:26.735+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:26.735+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:49:26.762+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.721 seconds
+[2024-04-14T14:49:57.145+0000] {processor.py:161} INFO - Started process (PID=274) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:57.148+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:49:57.150+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:57.150+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:57.704+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:49:57.812+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:57.811+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:49:57.831+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:49:57.831+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:49:57.855+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.718 seconds
+[2024-04-14T14:50:28.201+0000] {processor.py:161} INFO - Started process (PID=283) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:50:28.202+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:50:28.205+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:50:28.205+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:50:29.161+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:50:29.258+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:50:29.258+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:50:29.396+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:50:29.396+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:50:29.437+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 1.243 seconds
+[2024-04-14T14:50:59.749+0000] {processor.py:161} INFO - Started process (PID=292) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:50:59.750+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:50:59.753+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:50:59.752+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:51:00.350+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:51:00.364+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:51:00.364+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:51:00.396+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:51:00.396+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:51:00.432+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.691 seconds
+[2024-04-14T14:51:31.141+0000] {processor.py:161} INFO - Started process (PID=301) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:51:31.142+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:51:31.145+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:51:31.144+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:51:31.722+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:51:31.828+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:51:31.828+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:51:31.849+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:51:31.848+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:51:31.871+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.740 seconds
+[2024-04-14T14:52:02.534+0000] {processor.py:161} INFO - Started process (PID=310) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:52:02.535+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:52:02.538+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:52:02.537+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:52:03.071+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:52:03.096+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:52:03.095+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:52:03.120+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:52:03.120+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:52:03.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.616 seconds
+[2024-04-14T14:52:33.200+0000] {processor.py:161} INFO - Started process (PID=319) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:52:33.201+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:52:33.203+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:52:33.203+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:52:33.789+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:52:33.802+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:52:33.802+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:52:33.825+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:52:33.825+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:52:33.848+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.655 seconds
+[2024-04-14T14:53:04.481+0000] {processor.py:161} INFO - Started process (PID=328) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:53:04.483+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:53:04.486+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:04.485+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:53:05.033+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:53:05.142+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:05.142+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:53:05.162+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:05.162+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:53:05.185+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.713 seconds
+[2024-04-14T14:53:23.782+0000] {processor.py:161} INFO - Started process (PID=337) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:53:23.784+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:53:23.787+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:23.787+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:53:24.548+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:53:24.560+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:24.560+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:53:24.585+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:24.585+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:53:24.657+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.882 seconds
+[2024-04-14T14:53:42.890+0000] {processor.py:161} INFO - Started process (PID=345) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:53:42.891+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:53:42.893+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:42.893+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:53:43.510+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:53:43.545+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:43.545+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:53:43.569+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:53:43.568+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:53:43.597+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.715 seconds
+[2024-04-14T14:54:14.432+0000] {processor.py:161} INFO - Started process (PID=354) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:14.434+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:54:14.438+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:14.437+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:15.028+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:15.141+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:15.140+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:54:15.164+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:15.163+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:54:15.194+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.772 seconds
+[2024-04-14T14:54:39.062+0000] {processor.py:161} INFO - Started process (PID=363) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:39.064+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:54:39.067+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:39.066+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:39.622+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:39.635+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:39.634+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:54:39.658+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:39.657+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:54:39.688+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.641 seconds
+[2024-04-14T14:54:41.767+0000] {processor.py:161} INFO - Started process (PID=365) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:41.769+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:54:41.771+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:41.771+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:42.321+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:42.333+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:42.333+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:54:42.355+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:42.355+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:54:42.384+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.624 seconds
+[2024-04-14T14:54:50.519+0000] {processor.py:161} INFO - Started process (PID=368) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:50.521+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:54:50.523+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:50.523+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:51.102+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:51.087+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/print_super_store.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/print_super_store.py", line 23, in <module>
+    with DAG(
+         ^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 519, in __init__
+    validate_key(dag_id)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/helpers.py", line 57, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'print from postgres' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-04-14T14:54:51.104+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:51.133+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.623 seconds
+[2024-04-14T14:54:56.234+0000] {processor.py:161} INFO - Started process (PID=370) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:56.235+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:54:56.239+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:56.238+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:57.044+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:54:57.025+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/print_super_store.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/print_super_store.py", line 23, in <module>
+    with DAG(
+         ^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 519, in __init__
+    validate_key(dag_id)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/helpers.py", line 57, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'print from postgres' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-04-14T14:54:57.046+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:54:57.126+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.900 seconds
+[2024-04-14T14:55:26.088+0000] {processor.py:161} INFO - Started process (PID=379) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:55:26.089+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:55:26.093+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:55:26.092+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:55:26.686+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:55:26.675+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/print_super_store.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/print_super_store.py", line 23, in <module>
+    with DAG(
+         ^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dag.py", line 519, in __init__
+    validate_key(dag_id)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/helpers.py", line 57, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'print from postgres' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-04-14T14:55:26.688+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:55:26.712+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.632 seconds
+[2024-04-14T14:55:51.556+0000] {processor.py:161} INFO - Started process (PID=388) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:55:51.557+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:55:51.560+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:55:51.559+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:55:52.225+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:55:52.215+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/print_super_store.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/print_super_store.py", line 32, in <module>
+    task = PythonOperator(task_id='print df', python_callable=read_df_from_postgres)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 220, in __init__
+    super().__init__(**kwargs)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 484, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 892, in __init__
+    validate_key(task_id)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/helpers.py", line 57, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'print df' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-04-14T14:55:52.226+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:55:52.246+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.704 seconds
+[2024-04-14T14:56:00.874+0000] {processor.py:161} INFO - Started process (PID=390) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:56:00.875+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:56:00.878+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:56:00.878+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:56:01.605+0000] {processor.py:840} INFO - DAG(s) 'print_from_postgres' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:56:01.719+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:56:01.718+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:print_from_postgres
+[2024-04-14T14:56:01.732+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:56:01.731+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:print_from_postgres
+[2024-04-14T14:56:01.741+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:56:01.741+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:print_from_postgres
+[2024-04-14T14:56:01.742+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:56:01.742+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:56:01.754+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:56:01.753+0000] {dag.py:3118} INFO - Creating ORM DAG for print_from_postgres
+[2024-04-14T14:56:01.765+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:56:01.765+0000] {dag.py:3954} INFO - Setting next_dagrun for print_from_postgres to 2024-04-13 00:00:00+00:00, run_after=2024-04-14 00:00:00+00:00
+[2024-04-14T14:56:01.796+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 0.934 seconds
+[2024-04-14T14:56:32.196+0000] {processor.py:161} INFO - Started process (PID=399) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:56:32.202+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:56:32.208+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:56:32.207+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:56:36.901+0000] {processor.py:840} INFO - DAG(s) 'print_from_postgres' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:56:37.177+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:56:37.172+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:56:37.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 5.112 seconds
+[2024-04-14T14:57:07.551+0000] {processor.py:161} INFO - Started process (PID=415) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:57:07.554+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:57:07.557+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:57:07.556+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:57:08.535+0000] {processor.py:840} INFO - DAG(s) 'print_from_postgres' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:57:08.578+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:57:08.578+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:57:08.600+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:57:08.600+0000] {dag.py:3954} INFO - Setting next_dagrun for print_from_postgres to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:57:08.624+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 1.091 seconds
+[2024-04-14T14:57:33.876+0000] {processor.py:161} INFO - Started process (PID=418) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:57:33.877+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:57:33.880+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:57:33.879+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:57:34.858+0000] {processor.py:840} INFO - DAG(s) 'print_from_postgres' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:57:34.885+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:57:34.884+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-14T14:57:34.911+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:57:34.911+0000] {dag.py:3954} INFO - Setting next_dagrun for print_from_postgres to 2024-04-14 00:00:00+00:00, run_after=2024-04-15 00:00:00+00:00
+[2024-04-14T14:57:34.944+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/print_super_store.py took 1.075 seconds
+[2024-04-14T14:58:36.179+0000] {processor.py:161} INFO - Started process (PID=427) to work on /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:58:37.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/print_super_store.py for tasks to queue
+[2024-04-14T14:58:37.568+0000] {logging_mixin.py:188} INFO - [2024-04-14T14:58:37.539+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:58:40.001+0000] {logging_mixin.py:188} WARNING - Exception ignored in: <function WeakKeyDictionary.__init__.<locals>.remove at 0x7fd62a665580>
+[2024-04-14T14:58:40.003+0000] {logging_mixin.py:188} WARNING - Traceback (most recent call last):
+[2024-04-14T14:58:40.004+0000] {logging_mixin.py:188} WARNING -   File "/usr/local/lib/python3.12/weakref.py", line 369, in remove
+[2024-04-14T14:58:40.009+0000] {logging_mixin.py:188} WARNING -     def remove(k, selfref=ref(self)):
+[2024-04-14T14:58:40.010+0000] {logging_mixin.py:188} WARNING -   File "/home/airflow/.local/lib/python3.12/site-packages/airflow/dag_processing/manager.py", line 457, in _exit_gracefully
+[2024-04-14T14:58:40.011+0000] {logging_mixin.py:188} WARNING -     sys.exit(os.EX_OK)
+[2024-04-14T14:58:40.012+0000] {logging_mixin.py:188} WARNING - SystemExit: 0
+[2024-04-14T14:58:40.632+0000] {processor.py:840} INFO - DAG(s) 'print_from_postgres' retrieved from /opt/airflow/dags/print_super_store.py
+[2024-04-14T14:59:53.984+0000] {processor.py:186} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3371, in _wrap_pool_connect
+    return fn()
+           ^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+    with util.safe_reraise():
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 690, in __connect
+    with util.safe_reraise():
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 574, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: could not translate host name "postgres" to address: Temporary failure in name resolution
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/dag_processing/processor.py", line 182, in _run_file_processor
+    _handle_dag_file_processing()
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/dag_processing/processor.py", line 163, in _handle_dag_file_processing
+    result: tuple[int, int] = dag_file_processor.process_file(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/session.py", line 79, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/dag_processing/processor.py", line 859, in process_file
+    serialize_errors = DagFileProcessor.save_dag_to_db(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/api_internal/internal_api_call.py", line 115, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/session.py", line 79, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/dag_processing/processor.py", line 895, in save_dag_to_db
+    import_errors = DagBag._sync_to_db(dags=dags, processor_subdir=dag_directory, session=session)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 659, in _sync_to_db
+    for attempt in run_with_db_retries(logger=log):
+  File "/home/airflow/.local/lib/python3.12/site-packages/tenacity/__init__.py", line 347, in __iter__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/tenacity/__init__.py", line 325, in iter
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/tenacity/__init__.py", line 158, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 672, in _sync_to_db
+    _serialize_dag_capturing_errors(dag, session, processor_subdir)
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 637, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/serialized_dag.py", line 158, in write_dag
+    if session.scalar(
+       ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1747, in scalar
+    return self.execute(
+           ^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1716, in execute
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1555, in _connection_for_bind
+    return self._transaction._connection_for_bind(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 750, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/future/engine.py", line 412, in connect
+    return super(Engine, self).connect()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3325, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3404, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3374, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2208, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3371, in _wrap_pool_connect
+    return fn()
+           ^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 327, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 894, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 493, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+    with util.safe_reraise():
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 273, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 388, in __init__
+    self.__connect()
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 690, in __connect
+    with util.safe_reraise():
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 686, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 574, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 598, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate host name "postgres" to address: Temporary failure in name resolution
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
