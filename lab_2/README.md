@@ -57,3 +57,14 @@ DDL скрипты по созданию таблиц находятся в ди
 Таблицы добавлены в БД 
 
 ![1](./resources/mgpu_db.png)
+
+
+Для создания sales_fact был использован скрипт:
+
+```sql
+CREATE TABLE superstore.sales_fact AS
+SELECT o.*
+FROM superstore.orders o
+LEFT JOIN superstore."returns" r ON o.order_id = r.order_id
+WHERE r.returned IS NULL OR r.returned = 'No';
+```
