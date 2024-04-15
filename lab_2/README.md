@@ -50,7 +50,10 @@ cat ./sql_queries/create_orders.sql | docker exec -i postgres psql -U admin -d t
 
 DDL скрипты по созданию таблиц находятся в директории [ddl_scripts](./ddl_scripts)
 
-# 7. Необходимо сделать INSERT INTO SQL, чтобы заполнить Dimensions таблицы и Sales Fact таблицу. Сначала заполняем Dimensions таблицы, где в качестве id генерим последовательность чисел, а затем Sales Fact таблицу, в которую вставляем id из Dimensions таблиц.
+Подключение к БД 95.131.149.21:5432/dep17 прошло успешно
 
-Для создания и заполнения таблицы Dimensions используем скрипт `./task_7/create_dimensions.sql`.
-Для создания и заполнения таблицы Sales Fact используем скрипт `./task_7/create_sales_fact.sql`.
+![1](./resources/mgpu_dp_con.png)
+
+Таблицы добавлены в БД 
+
+![1](./resources/mgpu_db.png)
