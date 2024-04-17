@@ -38,5 +38,11 @@ docker-compose up -d
 
 Но ресурсов на выполнение дага не хватило...
 
+![1](./resources/highload.png)
+
+Еле отлагало 
+
+![1](./resources/not_enough.png)
+
 Вот логи [ошибки](./airflow_volume/logs/dag_id=sales_fact/run_id=manual__2024-04-17T074935.724301+0000/)
 

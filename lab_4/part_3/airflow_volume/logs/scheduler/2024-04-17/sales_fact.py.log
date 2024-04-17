@@ -771,3 +771,17 @@ NameError: name 'default_args' is not defined
 [2024-04-17T08:03:05.414+0000] {logging_mixin.py:188} INFO - [2024-04-17T08:03:05.413+0000] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-04-17T08:03:05.443+0000] {logging_mixin.py:188} INFO - [2024-04-17T08:03:05.443+0000] {dag.py:3954} INFO - Setting next_dagrun for sales_fact to 2024-04-17 00:00:00+00:00, run_after=2024-04-18 00:00:00+00:00
 [2024-04-17T08:03:05.471+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sales_fact.py took 1.104 seconds
+[2024-04-17T08:03:35.761+0000] {processor.py:161} INFO - Started process (PID=468) to work on /opt/airflow/dags/sales_fact.py
+[2024-04-17T08:03:35.762+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sales_fact.py for tasks to queue
+[2024-04-17T08:03:35.765+0000] {logging_mixin.py:188} INFO - [2024-04-17T08:03:35.764+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sales_fact.py
+[2024-04-17T08:03:36.750+0000] {processor.py:840} INFO - DAG(s) 'sales_fact' retrieved from /opt/airflow/dags/sales_fact.py
+[2024-04-17T08:03:36.779+0000] {logging_mixin.py:188} INFO - [2024-04-17T08:03:36.778+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-17T08:03:36.812+0000] {logging_mixin.py:188} INFO - [2024-04-17T08:03:36.812+0000] {dag.py:3954} INFO - Setting next_dagrun for sales_fact to 2024-04-17 00:00:00+00:00, run_after=2024-04-18 00:00:00+00:00
+[2024-04-17T08:03:36.840+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sales_fact.py took 1.086 seconds
+[2024-04-17T08:04:07.174+0000] {processor.py:161} INFO - Started process (PID=477) to work on /opt/airflow/dags/sales_fact.py
+[2024-04-17T08:04:07.175+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sales_fact.py for tasks to queue
+[2024-04-17T08:04:07.177+0000] {logging_mixin.py:188} INFO - [2024-04-17T08:04:07.177+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sales_fact.py
+[2024-04-17T08:04:08.094+0000] {processor.py:840} INFO - DAG(s) 'sales_fact' retrieved from /opt/airflow/dags/sales_fact.py
+[2024-04-17T08:04:08.148+0000] {logging_mixin.py:188} INFO - [2024-04-17T08:04:08.147+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-17T08:04:08.178+0000] {logging_mixin.py:188} INFO - [2024-04-17T08:04:08.177+0000] {dag.py:3954} INFO - Setting next_dagrun for sales_fact to 2024-04-17 00:00:00+00:00, run_after=2024-04-18 00:00:00+00:00
+[2024-04-17T08:04:08.199+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sales_fact.py took 1.033 seconds
